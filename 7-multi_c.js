@@ -5,5 +5,5 @@ if (isNaN(times)) {
 
 } else {
     for (let i = 0; i < times; i++)
-        console.log("C is fine")
+        console.log("C is fun")
 }
